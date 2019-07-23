@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Turing-Gear/static/css/main.2b176d4c.chunk.css",
+    "main.js": "/Turing-Gear/static/js/main.a95fdce7.chunk.js",
+    "main.js.map": "/Turing-Gear/static/js/main.a95fdce7.chunk.js.map",
+    "runtime~main.js": "/Turing-Gear/static/js/runtime~main.39c2786c.js",
+    "runtime~main.js.map": "/Turing-Gear/static/js/runtime~main.39c2786c.js.map",
+    "static/js/2.a89b4503.chunk.js": "/Turing-Gear/static/js/2.a89b4503.chunk.js",
+    "static/js/2.a89b4503.chunk.js.map": "/Turing-Gear/static/js/2.a89b4503.chunk.js.map",
+    "index.html": "/Turing-Gear/index.html",
+    "precache-manifest.c13318e7c2eba98eb7e7c89798ff62db.js": "/Turing-Gear/precache-manifest.c13318e7c2eba98eb7e7c89798ff62db.js",
+    "service-worker.js": "/Turing-Gear/service-worker.js",
+    "static/css/main.2b176d4c.chunk.css.map": "/Turing-Gear/static/css/main.2b176d4c.chunk.css.map",
+    "static/media/logo.jpg": "/Turing-Gear/static/media/logo.37f4cf57.jpg"
+  }
+}
